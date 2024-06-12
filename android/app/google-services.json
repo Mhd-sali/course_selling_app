@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63143179779",
+    "project_id": "riverpodudemy1",
+    "storage_bucket": "riverpodudemy1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63143179779:android:7ae115965c56ed741fc036",
+        "android_client_info": {
+          "package_name": "com.example.riverpod_udemy1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8kSqlk1fyTsIb0jImOzSLqFqMsTcarFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
